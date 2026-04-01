@@ -1,4 +1,4 @@
-EFI Firmware Recovery
+**EFI Firmware Recovery**
 
 This project documents how I diagnosed and resolved a failed firmware update on a Dell Latitude 7330. The failure was caused by limited space in the EFI partition and included GNOME and system-related startup errors.
 
